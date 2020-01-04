@@ -1,5 +1,3 @@
-app/routes.py: Return complete HTML page from view function
-
 from app import app
 
 @app.route('/')
